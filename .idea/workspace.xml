@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab2d0009-3411-4c6b-9537-9cc3457060a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/assignment1 daisy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ques9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i0YUmqrloFKpBMvXN9FuiNgdbj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ques1.executor": "Run",
+    "Python.ques10.executor": "Run",
+    "Python.ques11.executor": "Run",
+    "Python.ques12.executor": "Run",
+    "Python.ques13.executor": "Run",
+    "Python.ques14.executor": "Run",
+    "Python.ques15.executor": "Run",
+    "Python.ques16.executor": "Run",
+    "Python.ques17.executor": "Run",
+    "Python.ques18.executor": "Run",
+    "Python.ques19.executor": "Run",
+    "Python.ques2.executor": "Run",
+    "Python.ques20.executor": "Run",
+    "Python.ques21.executor": "Run",
+    "Python.ques22.executor": "Run",
+    "Python.ques23.executor": "Run",
+    "Python.ques24.executor": "Run",
+    "Python.ques25.executor": "Run",
+    "Python.ques27.executor": "Run",
+    "Python.ques3.executor": "Run",
+    "Python.ques4.executor": "Run",
+    "Python.ques5.executor": "Run",
+    "Python.ques7.executor": "Run",
+    "Python.ques8.executor": "Run",
+    "Python.ques9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.ques14">
+    <configuration name="ques14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1 daisy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ques14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ques23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1 daisy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ques23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ques24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1 daisy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ques24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ques25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1 daisy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ques25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ques27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment1 daisy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ques27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ques14" />
+        <item itemvalue="Python.ques24" />
+        <item itemvalue="Python.ques27" />
+        <item itemvalue="Python.ques25" />
+        <item itemvalue="Python.ques23" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab2d0009-3411-4c6b-9537-9cc3457060a6" name="Changes" comment="" />
+      <created>1718628980488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718628980488</updated>
+    </task>
+    <servers />
+  </component>
+</project>
